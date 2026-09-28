@@ -11,7 +11,7 @@
 |-----|----------|
 | Họ và tên | Ngô Gia Quốc |
 | Mã học viên | 02757 |
-| Repo | https://github.com/KuSenpai/K4-L3A-DAY12-NgoGiaQuoc-02757-CloudServiceAndDeployment |
+| Repo | https://github.com/KuSenpai/K4-L3A-DAY12-NgoGiaQuoc-02757-CloudServicesAndDeployment |
 
 ## Service
 
